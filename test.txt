@@ -1,8 +1,2 @@
 shsajssa
-<<<<<<< HEAD
-sjacsca AA
-git learn gg  aaa
-=======
-sjacsca AA
-git learn gg  aaa
->>>>>>> featurel
+
