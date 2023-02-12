@@ -1,2 +1,11 @@
 shsajssa
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+sjacsca AA
+
+sjacsca AA
+git learn gg  aaa
+>>>>>>> 
+>>>>>>> dev
